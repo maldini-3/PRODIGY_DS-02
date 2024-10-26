@@ -1,2 +1,2 @@
-# PRODIGY_DS-02
-A machine learning model using random forest with test accuracy 85% , I made and EDA and preprocessing on the train data and feature engineering.
+# Titanic survival prediction
+This project involves building a machine learning model to predict passenger survival on the Titanic using a Random Forest classifier, achieving 85% accuracy on the test set. The analysis begins with exploratory data analysis (EDA) to understand patterns and relationships within the data, followed by data preprocessing and feature engineering to enhance model performance. This project illustrates the complete workflow of a predictive model, from data exploration and cleaning to feature creation and model evaluation.
